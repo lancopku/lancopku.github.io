@@ -53,8 +53,6 @@
     number_educ: 0
     education1:
 
-- group: Master Students
-  members:
   - name: Rundong Gao (高润东)
     photo: rock.jpg
     info:
@@ -62,7 +60,8 @@
     number_educ: 0
     education1:
 
-
+- group: Master Students
+  members:
   - name: Deli Chen [(陈德里)](https://victorchen96.github.io/chendeli.io/)
     photo: rock.jpg
     info:
