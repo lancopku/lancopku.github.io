@@ -40,8 +40,9 @@ The **Language Computing and Machine Learning Group** (Lanco) is affiliated with
 
 Based on machine learning technology and deep learning technology, we study **Machine Learning for Language**, including Deep Neural Networks, Learning for Knowledge Graphs, Learning for NLG and Learning for Multi-Modal (especially visual) NLP, and **Natural Language Generation**, including Machine Translation, Summarization, Dialogue, Multi-Modal (especially visual) NLG.
 
-## News
+## News (in Chinese)
 
+- 2021年5月，本组完成的两篇论文被ACL 2021接收。
 - 2021年3月，本组完成的三篇论文被NAACL 2021接收。
 - 2020年12月，本组完成的五篇论文被AAAI 2021 接收。
 - 2020年12月，本组陈德里同学获得校级“三好学生标兵”称号。
