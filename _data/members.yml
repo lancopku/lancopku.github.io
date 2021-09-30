@@ -11,21 +11,8 @@
 
 - group: Ph.D. Students
   members:
-  - name: Yi Zhang [(张艺)](https://zhangyics.github.io/)
-    photo: rock.jpg
-    info:
-    email:
-    number_educ: 0
-    education1:
 
   - name: Xuancheng Ren [(任宣丞)](https://jklj077.github.io/)
-    photo: rock.jpg
-    info:
-    email:
-    number_educ: 0
-    education1:
-
-  - name: Wei Li [(李炜)](https://liweitj47.github.io/)
     photo: rock.jpg
     info:
     email:
@@ -60,28 +47,22 @@
     number_educ: 0
     education1:
 
+  - name: Shicheng Li (李世成)
+    photo: rock.jpg
+    info:
+    email:
+    number_educ: 0
+    education1:
+
+  - name: Yi Liu (刘奕)
+    photo: rock.jpg
+    info:
+    email:
+    number_educ: 0
+    education1:
+
 - group: Master Students
   members:
-  - name: Deli Chen [(陈德里)](https://victorchen96.github.io/chendeli.io/)
-    photo: rock.jpg
-    info:
-    email:
-    number_educ: 0
-    education1:
-
-  - name: Liang Zhao [(赵亮)](https://zhao1iang.github.io/)
-    photo: rock.jpg
-    info:
-    email:
-    number_educ: 0
-    education1:
-
-  - name: Siyu Duan (段思宇)
-    photo: rock.jpg
-    info:
-    email:
-    number_educ: 0
-    education1:
 
   - name: Ruixuan Luo​ [(罗睿轩)](https://luoruixuan.github.io/)
     photo: rock.jpg
@@ -104,7 +85,7 @@
     number_educ: 0
     education1:
 
-  - name: Lei Li [(李磊)](http://leili.site/)
+  - name: Lei Li [(李磊)](https://leili.site/)
     photo: rock.jpg
     info:
     email:
@@ -112,6 +93,20 @@
     education1:
 
   - name: Wenkai Yang [(杨文恺)](https://keven980716.github.io)
+    photo: rock.jpg
+    info:
+    email:
+    number_educ: 0
+    education1:
+
+  - name: Sishuo Chen [(陈思硕)](https://pkucss.github.io/)
+    photo: rock.jpg
+    info:
+    email:
+    number_educ: 0
+    education1:
+
+  - name: Xiaohan Bi (毕潇晗)
     photo: rock.jpg
     info:
     email:
@@ -152,6 +147,41 @@
 
 - group: Recently Graduated Students
   members:
+  - name: Yi Zhang [(张艺)](https://zhangyics.github.io/)
+    photo: rock.jpg
+    info: Baidu
+    email:
+    number_educ: 0
+    education1:
+
+  - name: Wei Li [(李炜)](https://liweitj47.github.io/)
+    photo: rock.jpg
+    info: Beijing Language and Culture University
+    email:
+    number_educ: 0
+    education1:
+
+  - name: Deli Chen [(陈德里)](https://victorchen96.github.io/chendeli.io/)
+    photo: rock.jpg
+    info: WeChat AI
+    email:
+    number_educ: 0
+    education1:
+
+  - name: Liang Zhao [(赵亮)](https://zhao1iang.github.io/)
+    photo: rock.jpg
+    info: Alibaba
+    email:
+    number_educ: 0
+    education1:
+
+  - name: Siyu Duan (段思宇)
+    photo: rock.jpg
+    info: Peking University
+    email:
+    number_educ: 0
+    education1:
+
   - name: Jingjing Xu [(许晶晶)](https://jingjingxu.com/)
     photo: rock.jpg
     info: ByteDance AI Lab
