@@ -11,22 +11,7 @@
 
 - group: Ph.D. Students
   members:
-
-  - name: Xuancheng Ren [(任宣丞)](https://jklj077.github.io/)
-    photo: rock.jpg
-    info:
-    email:
-    number_educ: 0
-    education1:
-
   - name: Zhiyuan Zhang [(张之远)](https://pkuzzy.github.io/)
-    photo: rock.jpg
-    info:
-    email:
-    number_educ: 0
-    education1:
-
-  - name: Guangxiang Zhao [(赵光香)](https://zhaoguangxiang.github.io/)
     photo: rock.jpg
     info:
     email:
@@ -61,30 +46,22 @@
     number_educ: 0
     education1:
 
+  - name: Yuanxin Liu [(刘源鑫)](https://scholar.google.com/citations?user=pLOm4rYAAAAJ&hl=en)
+    photo: rock.jpg
+    info:
+    email:
+    number_educ: 0
+    education1:
+
+  - name: Yuxiang Wang (王昱翔)
+    photo: rock.jpg
+    info:
+    email:
+    number_educ: 0
+    education1:
+
 - group: Master Students
   members:
-
-  - name: Ruixuan Luo​ [(罗睿轩)](https://luoruixuan.github.io/)
-    photo: rock.jpg
-    info:
-    email:
-    number_educ: 0
-    education1:
-
-  - name: Kaiyuan Liao [(廖开元)](https://runtimeerror1.github.io/)
-    photo: rock.jpg
-    info:
-    email:
-    number_educ: 0
-    education1:
-
-  - name: Zongshuai Qi​ (亓宗帅)
-    photo: rock.jpg
-    info:
-    email:
-    number_educ: 0
-    education1:
-
   - name: Lei Li [(李磊)](https://leili.site/)
     photo: rock.jpg
     info:
@@ -107,6 +84,13 @@
     education1:
 
   - name: Xiaohan Bi (毕潇晗)
+    photo: rock.jpg
+    info:
+    email:
+    number_educ: 0
+    education1:
+
+  - name: Yuchi Wang (王宇驰)
     photo: rock.jpg
     info:
     email:
@@ -147,6 +131,41 @@
 
 - group: Recently Graduated Students
   members:
+  - name: Xuancheng Ren [(任宣丞)](https://jklj077.github.io/)
+    photo: rock.jpg
+    info: Alibaba
+    email:
+    number_educ: 0
+    education1:
+
+  - name: Guangxiang Zhao [(赵光香)](https://zhaoguangxiang.github.io/)
+    photo: rock.jpg
+    info: Shanghai AI Lab
+    email:
+    number_educ: 0
+    education1:
+
+  - name: Ruixuan Luo​ [(罗睿轩)](https://luoruixuan.github.io/)
+    photo: rock.jpg
+    info: Alibaba
+    email:
+    number_educ: 0
+    education1:
+
+  - name: Kaiyuan Liao [(廖开元)](https://runtimeerror1.github.io/)
+    photo: rock.jpg
+    info: Kuaishou
+    email:
+    number_educ: 0
+    education1:
+
+  - name: Zongshuai Qi​ (亓宗帅)
+    photo: rock.jpg
+    info: China Telecom Research Institute
+    email:
+    number_educ: 0
+    education1:
+
   - name: Yi Zhang [(张艺)](https://zhangyics.github.io/)
     photo: rock.jpg
     info: Baidu
