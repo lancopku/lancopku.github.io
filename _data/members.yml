@@ -97,40 +97,15 @@
     number_educ: 0
     education1:
 
-- group: Undergraduate Students
+- group: Recently Graduated Students
   members:
   - name: Fenglin Liu (刘峰林)
     photo: rock.jpg
-    info: Published a paper at EMNLP
+    info: Oxford
     email:
     number_educ: 0
     education1:
 
-  - name: Liangchen Luo (骆梁宸)
-    photo: rock.jpg
-    info: Published 3 papers at AAAI, EMNLP and ICLR
-    email:
-    number_educ: 0
-    education1:
-
-  - name: Chen Wu​ (吴尘)
-    photo: rock.jpg
-    info: Published a paper at ACL
-    email:
-    number_educ: 0
-    education1:
-
-  - name: Zhihan Zhang​ (张智涵)
-    photo: rock.jpg
-    info: Published a paper at ACL
-    email:
-    number_educ: 0
-    education1:
-
-
-
-- group: Recently Graduated Students
-  members:
   - name: Xuancheng Ren [(任宣丞)](https://jklj077.github.io/)
     photo: rock.jpg
     info: Alibaba
@@ -268,20 +243,6 @@
   - name: Xinrui He (贺心蕊)
     photo: rock.jpg
     info: CMU
-    email:
-    number_educ: 0
-    education1:
-
-  - name: Hangfeng He (何杭峰)
-    photo: rock.jpg
-    info: UPenn
-    email:
-    number_educ: 0
-    education1:
-
-  - name: Qi Zeng (曾琪)
-    photo: rock.jpg
-    info: UIUC
     email:
     number_educ: 0
     education1:
