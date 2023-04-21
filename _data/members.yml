@@ -99,16 +99,16 @@
 
 - group: Recently Graduated Students
   members:
-  - name: Xuancheng Ren [(任宣丞)](https://jklj077.github.io/)
-    photo: rock.jpg
-    info: Alibaba
-    email:
-    number_educ: 0
-    education1:
-  
   - name: Fenglin Liu (刘峰林)
     photo: rock.jpg
     info: Oxford
+    email:
+    number_educ: 0
+    education1:
+
+  - name: Xuancheng Ren [(任宣丞)](https://jklj077.github.io/)
+    photo: rock.jpg
+    info: Alibaba
     email:
     number_educ: 0
     education1:
