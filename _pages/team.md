@@ -24,6 +24,10 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
 <h4>{{ member.name }}</h4>
 
+  {% if member.type %}
+<i>({{ member.type }})</i>
+  {% endif %}
+
   {% if member.info %}
 <i>{{ member.info }}</i>
   {% endif %}

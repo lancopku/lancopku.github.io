@@ -97,10 +97,11 @@
     number_educ: 0
     education1:
 
-- group: Recently Graduated Students
+- group: Recently Graduated Students (PhD, Master, Internship)
   members:
   - name: Fenglin Liu (刘峰林)
     photo: rock.jpg
+    type: Internship
     info: Oxford
     email:
     number_educ: 0
@@ -108,6 +109,7 @@
 
   - name: Xuancheng Ren [(任宣丞)](https://jklj077.github.io/)
     photo: rock.jpg
+    type: Ph.D student
     info: Alibaba
     email:
     number_educ: 0
@@ -115,6 +117,7 @@
 
   - name: Guangxiang Zhao [(赵光香)](https://zhaoguangxiang.github.io/)
     photo: rock.jpg
+    type: Ph.D student
     info: Shanghai AI Lab
     email:
     number_educ: 0
@@ -122,6 +125,7 @@
 
   - name: Ruixuan Luo​ [(罗睿轩)](https://luoruixuan.github.io/)
     photo: rock.jpg
+    type: Master student
     info: Alibaba
     email:
     number_educ: 0
@@ -129,6 +133,7 @@
 
   - name: Kaiyuan Liao [(廖开元)](https://runtimeerror1.github.io/)
     photo: rock.jpg
+    type: Master student
     info: Kuaishou
     email:
     number_educ: 0
@@ -136,6 +141,7 @@
 
   - name: Zongshuai Qi​ (亓宗帅)
     photo: rock.jpg
+    type: Master student
     info: China Telecom Research Institute
     email:
     number_educ: 0
@@ -143,6 +149,7 @@
 
   - name: Yi Zhang [(张艺)](https://zhangyics.github.io/)
     photo: rock.jpg
+    type: Ph.D student
     info: Baidu
     email:
     number_educ: 0
@@ -150,6 +157,7 @@
 
   - name: Wei Li [(李炜)](https://liweitj47.github.io/)
     photo: rock.jpg
+    type: Ph.D student
     info: Beijing Language and Culture University
     email:
     number_educ: 0
@@ -157,6 +165,7 @@
 
   - name: Deli Chen [(陈德里)](https://victorchen96.github.io/chendeli.io/)
     photo: rock.jpg
+    type: Master student
     info: WeChat AI
     email:
     number_educ: 0
@@ -164,6 +173,7 @@
 
   - name: Liang Zhao [(赵亮)](https://zhao1iang.github.io/)
     photo: rock.jpg
+    type: Master student
     info: Tencent
     email:
     number_educ: 0
@@ -171,6 +181,7 @@
 
   - name: Siyu Duan (段思宇)
     photo: rock.jpg
+    type: Master student
     info: Peking University
     email:
     number_educ: 0
@@ -178,6 +189,7 @@
 
   - name: Jingjing Xu [(许晶晶)](https://jingjingxu.com/)
     photo: rock.jpg
+    type: Ph.D student
     info: Postdoc, UCSB
     email:
     number_educ: 0
@@ -185,6 +197,7 @@
 
   - name: Pengcheng Yang (杨鹏程)
     photo: rock.jpg
+    type: Master student
     info: Alibaba DAMO Academy
     email:
     number_educ: 0
@@ -192,6 +205,7 @@
 
   - name: Peng Chen (陈鹏)
     photo: rock.jpg
+    type: Internship
     info: Stanford
     email:
     number_educ: 0
@@ -199,6 +213,7 @@
 
   - name: Shu Liu(刘澍)
     photo: rock.jpg
+    type: Master student
     info: Alibaba
     email:
     number_educ: 0
@@ -206,6 +221,7 @@
 
   - name: Shuming Ma [(马树铭)](https://shumingma.com/)
     photo: rock.jpg
+    type: Master student
     info: Microsoft Research Asia
     email:
     number_educ: 0
@@ -214,6 +230,7 @@
 
   - name: Junyang Lin [(林俊旸)](https://justinlin610.github.io/)
     photo: rock.jpg
+    type: Master student
     info: Alibaba DAMO Academy
     email:
     number_educ: 0
@@ -221,6 +238,7 @@
 
   - name: Bingzhen Wei (位冰镇)
     photo: rock.jpg
+    type: Master student
     info: Byte Dance
     email:
     number_educ: 0
@@ -228,6 +246,7 @@
 
   - name: Liangchen Luo [(骆粱宸) ](https://www.luolc.com/)
     photo: rock.jpg
+    type: Internship
     info: Google AI (Mountain View)
     email:
     number_educ: 0
@@ -235,6 +254,7 @@
 
   - name: Shunyao Li (黎舜尧)
     photo: rock.jpg
+    type: Internship
     info: CMU
     email:
     number_educ: 0
@@ -242,6 +262,7 @@
 
   - name: Xinrui He (贺心蕊)
     photo: rock.jpg
+    type: Internship
     info: CMU
     email:
     number_educ: 0
