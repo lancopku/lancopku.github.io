@@ -60,7 +60,7 @@
     number_educ: 0
     education1:
   
-  - name: Lean Wang (王乐安)
+  - name: Lean Wang [(王乐安)](https://leanwang326.github.io/.github.io/)
     photo: rock.jpg
     info:
     email:
@@ -99,6 +99,13 @@
 
 - group: Recently Graduated Students (PhD, Master, Internship)
   members:
+  - name: Yanyan Zou [(邹炎炎)](https://zoezou2015.github.io/)
+    type: Internship
+    info: JD
+    email:
+    number_educ: 0
+    education1:
+
   - name: Ruibo Chen (陈睿博)
     type: Internship
     info: The University of Maryland
