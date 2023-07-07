@@ -99,6 +99,13 @@
 
 - group: Recently Graduated Students (PhD, Master, Internship)
   members:
+  - name: Ruibo Chen (陈睿博)
+    type: Internship
+    info: University of Maryland
+    email:
+    number_educ: 0
+    education1:
+
   - name: Lei Li [(李磊)](https://leili.site/)
     photo: rock.jpg
     type: Master student
