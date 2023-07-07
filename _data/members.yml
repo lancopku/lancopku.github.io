@@ -59,23 +59,23 @@
     email:
     number_educ: 0
     education1:
+  
+  - name: Lean Wang (王乐安)
+    photo: rock.jpg
+    info:
+    email:
+    number_educ: 0
+    education1:
+  
+  - name: Linli Yao [(姚林丽)](https://yaolinli.github.io/)
+    photo: rock.jpg
+    info:
+    email:
+    number_educ: 0
+    education1:
 
 - group: Master Students
   members:
-  - name: Lei Li [(李磊)](https://leili.site/)
-    photo: rock.jpg
-    info:
-    email:
-    number_educ: 0
-    education1:
-
-  - name: Wenkai Yang [(杨文恺)](https://keven980716.github.io)
-    photo: rock.jpg
-    info:
-    email:
-    number_educ: 0
-    education1:
-
   - name: Sishuo Chen [(陈思硕)](https://pkucss.github.io/)
     photo: rock.jpg
     info:
@@ -99,6 +99,30 @@
 
 - group: Recently Graduated Students (PhD, Master, Internship)
   members:
+  - name: Lei Li [(李磊)](https://leili.site/)
+    photo: rock.jpg
+    type: Master student
+    info: The University of Hong Kong
+    email:
+    number_educ: 0
+    education1:
+
+  - name: Wenkai Yang [(杨文恺)](https://keven980716.github.io)
+    photo: rock.jpg
+    type: Master student
+    info: Renmin University of China
+    email:
+    number_educ: 0
+    education1:
+
+  - name: Fuli Luo [(罗福莉)](https://scholar.google.com/citations?user=1s79Z5cAAAAJ)
+    photo: rock.jpg
+    type: Master student, co-advised
+    info: High-Flyer Quant
+    email:
+    number_educ: 0
+    education1:
+
   - name: Fenglin Liu (刘峰林)
     photo: rock.jpg
     type: Internship
