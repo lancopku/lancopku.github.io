@@ -8,7 +8,7 @@ permalink: /
 
 ## Introduction
 
-The **Language Computing and Machine Learning Group** (Lanco) is affiliated with Institute of Computational Linguistics (National Key Laboratory for Multimedia Information Processing), School of Computer Science, Peking University. The group is founded in 2013 and is led by [Xu Sun](https://xusun.org/).
+The **Language Computing and Machine Learning Group** (Lanco) is affiliated with Institute of Computational Linguistics (National Key Laboratory for Multimedia Information Processing), School of Computer Science, Peking University. The group is founded in 2013 and is led by [Xu Sun](https://xusun26.github.io/).
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
