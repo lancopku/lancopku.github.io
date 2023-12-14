@@ -46,7 +46,7 @@
     number_educ: 0
     education1:
 
-  - name: Yuanxin Liu [(刘源鑫)](https://scholar.google.com/citations?user=pLOm4rYAAAAJ&hl=en)
+  - name: Yuanxin Liu [(刘源鑫)](https://llyx97.github.io/)
     photo: rock.jpg
     info:
     email:
@@ -106,7 +106,7 @@
     number_educ: 0
     education1:
 
-  - name: Lei Li [(李磊)](https://leili.site/)
+  - name: Lei Li [(李磊)](https://lilei-nlp.github.io/)
     photo: rock.jpg
     type: Master student
     info: The University of Hong Kong
