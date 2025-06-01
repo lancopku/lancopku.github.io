@@ -3,7 +3,7 @@
   members:
   - name: Xu Sun [(孙栩)](https://xusun26.github.io/)
     photo: rock.jpg
-    info: Associate professor
+    info: Associate Professor (with tenure)
     email: xusun@pku.edu.cn
     number_educ: 0
     education1:
@@ -11,13 +11,6 @@
 
 - group: Ph.D. Students
   members:
-  - name: Zhiyuan Zhang [(张之远)](https://pkuzzy.github.io/)
-    photo: rock.jpg
-    info:
-    email:
-    number_educ: 0
-    education1:
-
   - name: Shuhuai Ren [(任抒怀)](https://renshuhuai-andy.github.io/)
     photo: rock.jpg
     info:
@@ -53,13 +46,6 @@
     number_educ: 0
     education1:
 
-  - name: Yuxiang Wang (王昱翔)
-    photo: rock.jpg
-    info:
-    email:
-    number_educ: 0
-    education1:
-  
   - name: Lean Wang [(王乐安)](https://leanwang326.github.io/.github.io/)
     photo: rock.jpg
     info:
@@ -73,24 +59,45 @@
     email:
     number_educ: 0
     education1:
+  
+  - name: Zhiyu Xu (许芷瑜)
+    photo: rock.jpg
+    info:
+    email:
+    number_educ: 0
+    education1:
+  
+  - name: Kun Ouyang (欧阳坤)
+    photo: rock.jpg
+    info:
+    email:
+    number_educ: 0
+    education1:
+  
+  - name: Ziyue Wang (王子悦)
+    photo: rock.jpg
+    info:
+    email:
+    number_educ: 0
+    education1:
+  
+  - name: Yishuo Cai (蔡艺硕)
+    photo: rock.jpg
+    info:
+    email:
+    number_educ: 0
+    education1:
 
 - group: Master Students
   members:
-  - name: Sishuo Chen [(陈思硕)](https://pkucss.github.io/)
-    photo: rock.jpg
-    info:
-    email:
-    number_educ: 0
-    education1:
-
-  - name: Xiaohan Bi (毕潇晗)
-    photo: rock.jpg
-    info:
-    email:
-    number_educ: 0
-    education1:
-
   - name: Yuchi Wang [(王宇驰)](https://wangyuchi369.github.io/)
+    photo: rock.jpg
+    info:
+    email:
+    number_educ: 0
+    education1:
+  
+  - name: Yuxiang Wang (王昱翔)
     photo: rock.jpg
     info:
     email:
@@ -99,6 +106,30 @@
 
 - group: Recently Graduated Students (PhD, Master, Internship)
   members:
+  - name: Sishuo Chen [(陈思硕)](https://pkucss.github.io/)
+    type: Master student
+    photo: rock.jpg
+    info:
+    email:
+    number_educ: 0
+    education1:
+
+  - name: Xiaohan Bi (毕潇晗)
+    photo: rock.jpg
+    type: Master student
+    info: ByteDance
+    email:
+    number_educ: 0
+    education1:
+  
+  - name: Zhiyuan Zhang [(张之远)](https://pkuzzy.github.io/)
+    photo: rock.jpg
+    type: Ph.D student
+    info: JQ Investments
+    email:
+    number_educ: 0
+    education1:
+
   - name: Ruibo Chen (陈睿博)
     type: Internship
     info: The University of Maryland
