@@ -11,19 +11,12 @@
 
 - group: Ph.D. Students
   members:
-  - name: Shuhuai Ren [(任抒怀)](https://renshuhuai-andy.github.io/)
-    photo: rock.jpg
-    info:
-    email:
-    number_educ: 0
-    education1:
-
-  - name: Rundong Gao (高润东)
-    photo: rock.jpg
-    info:
-    email:
-    number_educ: 0
-    education1:
+  # - name: Rundong Gao (高润东)
+  #   photo: rock.jpg
+  #   info:
+  #   email:
+  #   number_educ: 0
+  #   education1:
 
   - name: Shicheng Li [(李世成)](https://lscpku.github.io)
     photo: rock.jpg
@@ -67,21 +60,21 @@
     number_educ: 0
     education1:
   
-  - name: Kun Ouyang (欧阳坤)
+  - name: Kun Ouyang [(欧阳坤)](https://ouyangkun10.github.io)
     photo: rock.jpg
     info:
     email:
     number_educ: 0
     education1:
   
-  - name: Ziyue Wang (王子悦)
+  - name: Ziyue Wang [(王子悦)](https://rrustlee.github.io/)
     photo: rock.jpg
     info:
     email:
     number_educ: 0
     education1:
   
-  - name: Yishuo Cai (蔡艺硕)
+  - name: Yishuo Cai [(蔡艺硕)](https://walkeralan123.github.io)
     photo: rock.jpg
     info:
     email:
@@ -89,14 +82,6 @@
     education1:
 
 - group: Master Students
-  members:
-  - name: Yuchi Wang [(王宇驰)](https://wangyuchi369.github.io/)
-    photo: rock.jpg
-    info:
-    email:
-    number_educ: 0
-    education1:
-  
   - name: Yuxiang Wang (王昱翔)
     photo: rock.jpg
     info:
@@ -106,6 +91,22 @@
 
 - group: Recently Graduated Students (PhD, Master, Internship)
   members:
+  - name: Shuhuai Ren [(任抒怀)](https://renshuhuai-andy.github.io/)
+    photo: rock.jpg
+    type: Ph.D student
+    info: Xiaomi
+    email:
+    number_educ: 0
+    education1:
+  
+  - name: Yuchi Wang [(王宇驰)](https://wangyuchi369.github.io/)
+    type: Master student
+    photo: rock.jpg
+    info: The Chinese University of Hong Kong
+    email:
+    number_educ: 0
+    education1:
+
   - name: Sishuo Chen [(陈思硕)](https://pkucss.github.io/)
     type: Master student
     photo: rock.jpg
