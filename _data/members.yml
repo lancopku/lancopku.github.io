@@ -18,48 +18,27 @@
   #   number_educ: 0
   #   education1:
 
-  - name: Shicheng Li [(李世成)](https://lscpku.github.io)
-    photo: rock.jpg
-    info:
-    email:
-    number_educ: 0
-    education1:
-
-  - name: Yi Liu [(刘奕)](https://liuyi-pku.github.io/)
-    photo: rock.jpg
-    info:
-    email:
-    number_educ: 0
-    education1:
-
-  - name: Yuanxin Liu [(刘源鑫)](https://llyx97.github.io/)
-    photo: rock.jpg
-    info:
-    email:
-    number_educ: 0
-    education1:
-
   - name: Lean Wang [(王乐安)](https://leanwang326.github.io/.github.io/)
     photo: rock.jpg
     info:
     email:
     number_educ: 0
     education1:
-  
+
   - name: Linli Yao [(姚林丽)](https://yaolinli.github.io/)
     photo: rock.jpg
     info:
     email:
     number_educ: 0
     education1:
-  
-  - name: Zhiyu Xu (许芷瑜)
+
+  - name: Zhiyu Xu [(许芷瑜)](https://zhiyu-xu-xiao.github.io/)
     photo: rock.jpg
     info:
     email:
     number_educ: 0
     education1:
-  
+
   - name: Kun Ouyang [(欧阳坤)](https://ouyangkun10.github.io)
     photo: rock.jpg
     info:
@@ -81,9 +60,14 @@
     number_educ: 0
     education1:
 
-- group: Master Students
-  members:
-  - name: Yuxiang Wang (王昱翔)
+  - name: Sida Li (李思达)
+    photo: rock.jpg
+    info:
+    email:
+    number_educ: 0
+    education1:
+
+  - name: Yuancheng Wei [(魏源成)](https://github.com/wyclike)
     photo: rock.jpg
     info:
     email:
@@ -92,6 +76,22 @@
 
 - group: Recently Graduated Students (PhD, Master, Internship)
   members:
+  - name: Shicheng Li [(李世成)](https://lscpku.github.io)
+    photo: rock.jpg
+    type: Ph.D student
+    info: Xiaomi MiMo
+    email:
+    number_educ: 0
+    education1:
+
+  - name: Yuanxin Liu [(刘源鑫)](https://llyx97.github.io/)
+    photo: rock.jpg
+    type: Ph.D student
+    info: Xiaomi MiMo
+    email:
+    number_educ: 0
+    education1:
+
   - name: Shuhuai Ren [(任抒怀)](https://renshuhuai-andy.github.io/)
     photo: rock.jpg
     type: Ph.D student
